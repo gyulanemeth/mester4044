@@ -1,5 +1,7 @@
 # Living Room
 
+![](/imgs/img_6095.jpg)
+
 ![](/imgs/img_6089.jpg)
 
 ![](/imgs/img_6090.jpg)
@@ -9,8 +11,6 @@
 ![](/imgs/img_6093.jpg)
 
 ![](/imgs/img_6094.jpg)
-
-![](/imgs/img_6095.jpg)
 
 ![](/imgs/img_6096.jpg)
 

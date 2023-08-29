@@ -19,7 +19,7 @@ Just scrcoll through this page and you'll see why I love the location of my apar
 ## Address & map
 The address is 1095 Budapest, Mester utca 40-44. B/10.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2940.575266655844!2d19.07246130855836!3d47.479788574846964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1shu!2shu!4v1693302204876!5m2!1shu!2shu" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2696.5585653088!2d19.070747376874596!3d47.47903107117843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4741dcfebc6eea31%3A0x7ebfe4c794283cc!2sBudapest%2C%20Mester%20u.%2040-44%2C%201095!5e0!3m2!1sen!2shu!4v1693310816521!5m2!1sen!2shu" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Park
