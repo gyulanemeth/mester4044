@@ -2,13 +2,13 @@
 
 Please, see the detailed cost table below:
 
-|   | € / month |
-| --- | --- |
-| Rent | €650 |
-| Common charges | €40 |
-| Electricity | €10-€15 |
-| Water | €10-€15 |
-| Internet<sup>*</sup> | €10 | 
+|   | HUF / month | € / month |
+| --- | --- | --- |
+| Rent | 250.000 Ft | €675 |
+| Common charges | 15.000 Ft | €40 |
+| Electricity | 4500 - 6000 Ft | €10-€15 |
+| Water | 3500 - 6000 Ft | €10-€15 |
+| Internet<sup>*</sup> | 4000 Ft | €10 |
 
  <sup>*</sup>The internet is very unreliable right now, I would upgrade it.
 
